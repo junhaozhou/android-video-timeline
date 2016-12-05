@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="VideoTimeLine">
+        <attr name="thumbColor" format="color|reference"/>
+        <attr name="shadowColor" format="color|reference"/>
+        <attr name="minLength" format="float"/>
+    </declare-styleable>
+</resources>
